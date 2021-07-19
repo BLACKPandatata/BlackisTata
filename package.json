@@ -1,5 +1,5 @@
 {
-  "name": "NyanBot",
+  "name": "BlackPanda",
   "version": "99999.9.9",
   "description": "Termux only",
   "main": "samu.js",
@@ -43,5 +43,5 @@
     "start": "node samu.js"
   },
   "author": "Sam y Perry",
-  "homepage": "https://github.com/Samu330/NyanBot/readme"
+  "homepage": "https://github.com/BLACKPandatata/BlackisTata/readme"
 }
